@@ -1,1 +1,2 @@
-echo this can run commands in terminal tho
+sudo df -h
+nproc -all
