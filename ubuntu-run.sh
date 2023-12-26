@@ -1,2 +1,2 @@
-sudo df -h
-nproc 
+sudo apt update && sudo apt install neofetch
+neofetch
