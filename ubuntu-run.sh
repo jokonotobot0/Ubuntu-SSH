@@ -1,2 +1,2 @@
 sudo df -h
-nproc -all
+nproc 
